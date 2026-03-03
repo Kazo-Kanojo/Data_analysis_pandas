@@ -1,0 +1,9 @@
+id_titulo,tipo,titulo,ano_lancamento,visualizacoes_milhoes,nota_publico,categoria
+1,Filme,Aventuras no Espaco,2022,45.5,8.2,Ficcao
+2,Serie,Misterio da Montanha,2023,112.0,9.1,Suspense
+3,Filme,Riso Solto,2021,22.3,6.5,Comedia
+4,Serie,Caminhos do Destino,2022,89.4,8.8,Drama
+5,Filme,A Ultima Batalha,2023,150.2,7.9,Acao
+6,Serie,Agentes Secretos,2021,65.0,8.5,Acao
+7,Filme,Amor em Paris,2020,30.1,7.2,Romance
+8,Filme,O Segredo do Vale,2023,55.8,9.4,Suspense

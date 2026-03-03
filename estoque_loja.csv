@@ -1,0 +1,11 @@
+id_veiculo,marca,modelo,ano,preco,quilometragem,status
+101,Volkswagen,Saveiro Cross,2016,65000,85000,Vendido
+102,Fiat,Toro,2021,115000,32000,Disponível
+103,Chevrolet,Onix,2019,54500,60000,Disponível
+104,Toyota,Corolla,2020,130000,45000,Vendido
+105,Hyundai,HB20,2022,72000,15000,Disponível
+106,Ford,Ranger,2018,145000,110000,Manutenção
+107,Jeep,Compass,2023,165000,8000,Disponível
+108,Honda,Civic,2017,89000,92000,Vendido
+109,Volkswagen,Polo,2020,70000,41000,Disponível
+110,Renault,Kwid,2021,45000,28000,Disponível

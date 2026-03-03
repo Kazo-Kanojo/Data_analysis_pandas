@@ -1,0 +1,10 @@
+id_carro,nome_loja,marca,preco,status
+10,Loja Centro,Toyota,120000,Vendido
+11,Loja Centro,Honda,95000,Vendido
+12,Loja Sul,Toyota,130000,Disponível
+13,Loja Sul,Fiat,70000,Vendido
+14,Loja Centro,Toyota,125000,Vendido
+15,Loja Norte,Fiat,75000,Inativo
+16,Loja Sul,Honda,98000,Vendido
+17,Loja Norte,Honda,92000,Vendido
+18,Loja Centro,Fiat,68000,Vendido

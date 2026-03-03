@@ -1,0 +1,7 @@
+id_venda,vendedor,veiculo,preco_venda,comissao_percentual
+501,Carlos,Saveiro Cross,65000,0.05
+502,Ana,Toro,115000,0.04
+503,Carlos,Onix,54500,0.05
+504,Marcos,Corolla,130000,0.03
+505,Ana,HB20,72000,0.05
+506,Carlos,Compass,165000,0.04

@@ -1,0 +1,9 @@
+id_veiculo,loja,modelo,ano,quilometragem,preco,status
+201,primeiro projeto Loja,Saveiro Cross,2016,85000,65000,Vendido
+202,primeiro projeto Loja,Toro,2021,32000,115000,Disponível
+203,Filial Sul,Onix,2019,60000,54500,Vendido
+204,primeiro projeto Loja,Corolla,2020,45000,130000,Vendido
+205,Filial Sul,HB20,2022,15000,72000,Disponível
+206,primeiro projeto Loja,Ranger,2018,110000,145000,Inativo
+207,Filial Sul,Compass,2023,8000,165000,Disponível
+208,primeiro projeto Loja,Civic,2017,92000,89000,Vendido

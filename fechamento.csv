@@ -1,0 +1,9 @@
+id_venda,vendedor,veiculo,preco_compra,preco_venda,status
+1,João,Onix,40000,55000,Vendido
+2,Maria,Corolla,90000,120000,Vendido
+3,João,Saveiro Cross,50000,65000,Vendido
+4,Pedro,Toro,80000,110000,Vendido
+5,Maria,HB20,50000,68000,Vendido
+6,Pedro,Compass,120000,160000,Vendido
+7,João,Polo,55000,75000,Vendido
+8,Maria,Ranger,100000,135000,Disponível

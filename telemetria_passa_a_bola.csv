@@ -1,0 +1,11 @@
+id_leitura,id_partida,tipo_leitura,tempo_cronometro_segundos,bateria_esp32_pct
+1001,50,teste_conexao,0,99
+1002,50,tempo_oficial,2500,80
+1003,50,tempo_oficial,3600,75
+1004,51,tempo_oficial,1200,45
+1005,51,tempo_oficial,4500,35
+1006,52,teste_conexao,0,15
+1007,52,tempo_oficial,2000,12
+1008,52,tempo_oficial,2400,8
+1009,53,tempo_oficial,1800,90
+1010,53,tempo_oficial,3600,85
