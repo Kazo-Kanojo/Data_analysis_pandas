@@ -10,7 +10,6 @@ filtro1 = df[(df["status"] == 'Vendido') & (df['loja'] == 'primeiro projeto Loja
 total_vendas = filtro1['preco'].sum()
 
 print(total_vendas)
-
 #descobrir o ano do carro mais barato vendido
 filtro2 = df[(df["status"] == 'Vendido') & (df['loja'] == 'Filial Sul')]
 
@@ -22,10 +21,8 @@ print(f'O veiculo mais barato da loja FIlial Sul é do ano de {ano_barato}')
 
 #maior quilometragem entre os carros da loja primeiro projeto loja
 print()
-
 filtro3 = df[df['loja'] == 'primeiro projeto Loja']
 
 maior_quilometragem = filtro3['quilometragem'].max()
 
-
-print(maior_quilometragem)
+print(f"A maior quilometragem entre os carros vendidos ou não é de {maior_quilometragem}")

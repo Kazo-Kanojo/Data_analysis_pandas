@@ -1,2 +1,4 @@
-.idea
-__pycache__
+# Pastas do Python e da IDE
+.idea/
+__pycache__/
+*.pyc
