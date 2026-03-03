@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('vendas_loja.csv')
+df = pd.read_csv('../data/vendas_loja.csv')
 df['valor_comissao'] = df['comissao_percentual'] * df['preco_venda']
 
 #descobrir o vendedor com a maior comisão em uma unica venda

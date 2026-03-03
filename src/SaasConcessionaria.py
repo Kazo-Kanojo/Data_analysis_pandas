@@ -23,7 +23,7 @@ faturamento_ordenado = faturamento_por_loja.sort_values(ascending=False)
 
 import pandas as pd
 
-df = pd.read_csv("saas_concessionarias.csv")
+df = pd.read_csv("../data/saas_concessionarias.csv")
 
 print(df.to_string())
 

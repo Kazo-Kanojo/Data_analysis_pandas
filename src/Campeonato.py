@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('campeonato_esports.csv')
+df = pd.read_csv('../data/campeonato_esports.csv')
 
 #Objetivo encontrar o jogador com a maior media de abates.
 

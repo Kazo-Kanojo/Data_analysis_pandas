@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('carnaval_seguranca.csv')
+df = pd.read_csv('../data/carnaval_seguranca.csv')
 
 filtro = df[df['bloco'] == 'Solteiros e Casados']
 

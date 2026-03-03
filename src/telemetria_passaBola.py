@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('telemetria_passa_a_bola.csv')
+df = pd.read_csv('../data/telemetria_passa_a_bola.csv')
 
 print(df.head().to_string())
 

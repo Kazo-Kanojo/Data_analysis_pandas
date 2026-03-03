@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('plataforma_streaming.csv')
+df = pd.read_csv('../data/plataforma_streaming.csv')
 print(df.to_string())
 
 #descobrindo a nota do filme Aventuras no espaço

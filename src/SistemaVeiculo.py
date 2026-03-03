@@ -2,7 +2,7 @@ import pandas as pd
 
 
 #desafio descobrir o valor total de vendas
-df = pd.read_csv('sistema_veiculos.csv')
+df = pd.read_csv('../data/sistema_veiculos.csv')
 print(df.head())
 
 filtro1 = df[(df["status"] == 'Vendido') & (df['loja'] == 'primeiro projeto Loja')]

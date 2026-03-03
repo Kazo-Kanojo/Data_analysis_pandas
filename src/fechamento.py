@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("fechamento.csv")
+df = pd.read_csv("../data/fechamento.csv")
 print(df.to_string())
 
 #Encontarr o vendedor que gerou o maior lucro TOTAL apenas com os carros ja vendidos
